@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Test] ([SMS_ENABLE_FG]) VALUES ('1')

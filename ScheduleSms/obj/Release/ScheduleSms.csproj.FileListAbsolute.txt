@@ -1,0 +1,6 @@
+D:\cowell\SVN\ScheduleSms\ScheduleSms\ScheduleSms\bin\Release\ScheduleSms.exe
+D:\cowell\SVN\ScheduleSms\ScheduleSms\ScheduleSms\bin\Release\ScheduleSms.pdb
+D:\cowell\SVN\ScheduleSms\ScheduleSms\ScheduleSms\bin\Release\Cowell.RegTools.dll
+D:\cowell\SVN\ScheduleSms\ScheduleSms\ScheduleSms\obj\Release\ScheduleSms.csprojResolveAssemblyReference.cache
+D:\cowell\SVN\ScheduleSms\ScheduleSms\ScheduleSms\obj\Release\ScheduleSms.exe
+D:\cowell\SVN\ScheduleSms\ScheduleSms\ScheduleSms\obj\Release\ScheduleSms.pdb

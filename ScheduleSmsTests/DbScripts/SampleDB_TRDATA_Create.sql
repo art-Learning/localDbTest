@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[TEST](
+	[SMS_ENABLE_FG] [bit] NOT NULL DEFAULT ((0))
+	
+) ON [PRIMARY]
